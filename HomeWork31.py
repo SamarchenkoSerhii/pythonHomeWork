@@ -12,5 +12,5 @@ elif operation == "/" and digit2 != 0:
 else:
     print("incorrect input data")
     if operation == "/" and digit2 == 0:
-        print("second number is zero")
+        print("second number is zero"
 
