@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4b9f99f-27e9-4b1b-92e4-d1140fd910aa" name="Changes" comment="HomeWork">
-      <change afterPath="$PROJECT_DIR$/HomeWork22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork31.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
   "keyToString": {
     "Python.HomeWork21.executor": "Run",
     "Python.HomeWork22.executor": "Run",
+    "Python.HomeWork31.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Serhii/Desktop/Hillel ДЗ/pythonHomeWork",
@@ -80,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728998770561</updated>
-      <workItem from="1728998787389" duration="5698000" />
+      <workItem from="1728998787389" duration="13106000" />
     </task>
     <task id="LOCAL-00001" summary="HomeWork">
       <option name="closed" value="true" />
@@ -90,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729002881447</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HomeWork">
+      <option name="closed" value="true" />
+      <created>1729005024077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729005024077</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +121,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="HomeWork" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonHomeWork$HomeWork22.coverage" NAME="HomeWork22 Coverage Results" MODIFIED="1729004899021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonHomeWork$HomeWork22.coverage" NAME="HomeWork22 Coverage Results" MODIFIED="1729157865108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonHomeWork$HomeWork31.coverage" NAME="HomeWork31 Coverage Results" MODIFIED="1729163397449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonHomeWork$HomeWork21.coverage" NAME="HomeWork21 Coverage Results" MODIFIED="1729002204454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
